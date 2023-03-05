@@ -1,0 +1,15 @@
+Day,Sleeping time in hours,Working hours at computer,Doing sports/fitness/gym in hours,Studies in languages and DA in hours,Reading books in hours,Watching videos/movies in hours,Go outside for a walk or shopping in hours,"Walked more than 10,000 steps (boolean)",Driving per car in hours,Driving per bike in hours,Number of cups of coffee,Drinking non-mineral water in liters,Having breakfast and warm lunch and dinner (boolean),Having breakfast and warm dinner (boolean)
+"Feb 20, 2023",8,3,0,2.5,0.35,1.5,0.6,no,0,0.5,6,1,yes,no
+"Feb 21, 2023",7,4,0,2,0,1,0,no,0,0.3,5,1.5,yes,no
+"Feb 22, 2023",8,10,0,1.8,0.3,0.5,0.5,no,0,0,5,1,yes,no
+"Feb 23, 2023",8,12,0.2,1.5,0,0,0.5,no,0,0.5,5,1,yes,no
+"Feb 24, 2023",8,10,0.3,1,0.3,0.5,0.5,no,0,0.5,4,1.2,yes,no
+"Feb 25, 2023",8.5,3,0.75,2.5,0.5,0.75,1,yes,0,0.5,4,1,no,yes
+"Feb 26, 2023",8,3,0.75,2,0.5,0.5,1.5,yes,0,0,4,1.2,no,yes
+"Feb 27, 2023",8,1,0.2,1,0,0.2,3,yes,0,0,2,0.5,yes,no
+"Feb 28, 2023",8,1,0.2,1,0,0.2,4,yes,0,0,1.5,0.75,yes,no
+"March 1, 2023",8,1,0,1,0,0.3,4,yes,0,0,1,1,yes,no
+"March 2, 2023",8,1,0,1,0,0.2,8,yes,0,0,1,1,yes,no
+"March 3, 2023",8,1,0,1,0,0.2,6,yes,0,0,1,0.75,no,yes
+"March 4, 2023",9,4,0.75,3,0.5,0.75,1.5,yes,0,0.5,5,1,no,yes
+"March 5, 2023",8,5,0.75,4,1,1,2,yes,0,0.75,4,1.2,no,yes
